@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ReactApp_ColorPicker/static/css/main.7573aa89.chunk.css",
-    "main.js": "/ReactApp_ColorPicker/static/js/main.d417edf9.chunk.js",
-    "main.js.map": "/ReactApp_ColorPicker/static/js/main.d417edf9.chunk.js.map",
+    "main.js": "/ReactApp_ColorPicker/static/js/main.ef1ab908.chunk.js",
+    "main.js.map": "/ReactApp_ColorPicker/static/js/main.ef1ab908.chunk.js.map",
     "runtime-main.js": "/ReactApp_ColorPicker/static/js/runtime-main.321508f6.js",
     "runtime-main.js.map": "/ReactApp_ColorPicker/static/js/runtime-main.321508f6.js.map",
     "static/js/2.6a90d972.chunk.js": "/ReactApp_ColorPicker/static/js/2.6a90d972.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.321508f6.js",
     "static/js/2.6a90d972.chunk.js",
     "static/css/main.7573aa89.chunk.css",
-    "static/js/main.d417edf9.chunk.js"
+    "static/js/main.ef1ab908.chunk.js"
   ]
 }
